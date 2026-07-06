@@ -1,0 +1,13 @@
+Vendor,Plan Tier,Seat Count,Monthly Cost,Department Owner
+Zoom,Enterprise,250,85000,Engineering
+Slack,Business+,180,95000,Engineering
+Microsoft Teams,Included,500,0,Engineering
+Jira,Premium,120,110000,Product
+Asana,Business,80,75000,Product
+Trello,Business Class,45,35000,Product
+Adobe Creative Cloud,Pro,65,280000,Marketing
+Figma,Professional,85,95000,Design
+Salesforce,Enterprise,95,350000,Sales
+Datadog,Pro,50,180000,Engineering
+New Relic,Standard,40,140000,Engineering
+Grafana Cloud,Advanced,35,95000,Engineering
